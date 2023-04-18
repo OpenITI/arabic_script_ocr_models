@@ -3,7 +3,7 @@ About the models
 
 Mellon-funded project models trained on additional new Ottoman Turk print data in April '23:
   mellon_ottoturk_print_layout.mlmodel
-  mellon_ottoturk_print_transcription.mlmodel
+   mellon_ottoturk_print_transcription.mlmodel
 
 Final OCR models trained and tested on Arabic print for '22 Mellon grant:
   mellon_print_layout.mlmodel
