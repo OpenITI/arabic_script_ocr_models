@@ -26,5 +26,6 @@ Models trained and tested on MS data using pre-trained base models from '22 Mell
 &nbsp; &nbsp; &nbsp; &nbsp; ms_pretrained_trans.mlmodel
 
 Models trained and tested on MS data from scratch w/out loading previous models:    
-&nbsp; &nbsp; &nbsp; &nbsp; ms_scratch_layout.mlmodel   
-&nbsp; &nbsp; &nbsp; &nbsp; ms_scratch_trans.mlmodel
+~~&nbsp; &nbsp; &nbsp; &nbsp; ms_scratch_layout.mlmodel   
+&nbsp; &nbsp; &nbsp; &nbsp; ms_scratch_trans.mlmodel~~
+
